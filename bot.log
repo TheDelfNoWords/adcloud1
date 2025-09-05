@@ -1,0 +1,359 @@
+2025-08-01 09:45:08,855 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 09:45:08,857 - discord.client - INFO - logging in using static token
+2025-08-01 09:45:10,594 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 28bdf913dfde83943853dc0c2b4e112d).
+2025-08-01 09:45:12,597 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 09:52:23,208 - error_logger - ERROR - Команда: сетуровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:53:36,651 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 09:53:36,653 - discord.client - INFO - logging in using static token
+2025-08-01 09:53:38,288 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8bd81331c71bbfd2b1bce4b07b73805a).
+2025-08-01 09:53:40,299 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 09:54:02,911 - error_logger - ERROR - Команда: None, Ошибка: Command "урофень" is not found
+NoneType: None
+2025-08-01 09:54:08,668 - error_logger - ERROR - Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:54:14,681 - error_logger - ERROR - Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:55:21,777 - error_logger - ERROR - Команда: сетуровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:56:10,948 - error_logger - ERROR - Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:59:40,073 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 09:59:40,076 - discord.client - INFO - logging in using static token
+2025-08-01 09:59:43,333 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 58f5bbb6fa38524b9fafc674b6ad9500).
+2025-08-01 09:59:44,649 - error_logger - ERROR - Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+2025-08-01 09:59:45,336 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 10:06:18,096 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 10:06:18,098 - discord.client - INFO - logging in using static token
+2025-08-01 10:06:19,653 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c1c4a534cef313cfb4d5f3b13377518).
+2025-08-01 10:06:21,658 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 10:06:25,518 - error_logger - ERROR - Команда: None, Ошибка: Command "ehjdtym" is not found
+NoneType: None
+2025-08-01 10:10:35,418 - error_logger - ERROR - Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+2025-08-01 10:10:53,921 - error_logger - ERROR - Команда: None, Ошибка: Command "ягей" is not found
+NoneType: None
+2025-08-01 10:11:51,949 - error_logger - ERROR - Команда: setbalance, Ошибка: Member "-1" not found.
+NoneType: None
+2025-08-01 10:11:53,433 - error_logger - ERROR - Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+2025-08-01 10:12:19,623 - error_logger - ERROR - Команда: setbalance, Ошибка: Member "@𝓡𝓲𝓶𝓾𝓻𝓾" not found.
+NoneType: None
+2025-08-01 10:12:24,989 - error_logger - ERROR - Команда: setbalance, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+2025-08-01 10:12:25,957 - error_logger - ERROR - Команда: setbalance, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 10:13:11,109 - error_logger - ERROR - Команда: None, Ошибка: Command "сетбала<@831838273331658793>" is not found
+NoneType: None
+2025-08-01 10:13:33,752 - error_logger - ERROR - Команда: None, Ошибка: Command "сетбаланс<@831838273331658793>" is not found
+NoneType: None
+2025-08-01 10:13:45,459 - error_logger - ERROR - Команда: None, Ошибка: Command "сетбаланс@𝓡𝓲𝓶𝓾𝓻𝓾" is not found
+NoneType: None
+2025-08-01 10:16:33,967 - error_logger - ERROR - Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+2025-08-01 10:19:13,344 - error_logger - ERROR - Команда: лс, Ошибка: Member "@894428550130708501" not found.
+NoneType: None
+2025-08-01 11:35:39,826 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 11:35:39,845 - discord.client - INFO - logging in using static token
+2025-08-01 11:35:41,419 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fd983dc2fa158119a56c6a56af3f1f0d).
+2025-08-01 11:35:43,475 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:33:30,142 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:33:30,146 - discord.client - INFO - logging in using static token
+2025-08-01 13:33:31,722 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 110ea91d7a2dfe747d8d9a5fae4e6ebb).
+2025-08-01 13:33:33,956 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:33:57,695 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:33:57,704 - discord.client - INFO - logging in using static token
+2025-08-01 13:33:59,251 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9dadf1fb7fd313c7fad11f74ea096a7c).
+2025-08-01 13:35:20,070 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:35:20,074 - discord.client - INFO - logging in using static token
+2025-08-01 13:35:22,088 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13e59fe4a8f2b073cd72a8831f027b5b).
+2025-08-01 13:35:24,318 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:36:33,363 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:36:33,367 - discord.client - INFO - logging in using static token
+2025-08-01 13:36:35,055 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e409e0cf44e8a7a409d82c3f8591f93e).
+2025-08-01 13:36:37,087 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:43:57,345 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:43:57,348 - discord.client - INFO - logging in using static token
+2025-08-01 13:43:58,864 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e950d7c43d6277f25eee4928ac06f95f).
+2025-08-01 13:44:00,872 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:44:09,485 - error_logger - ERROR - Команда: бонус, Ошибка: Command raised an exception: NameError: name 'USER_BALANCES_FILE' is not defined
+NoneType: None
+2025-08-01 13:47:22,686 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:47:22,688 - discord.client - INFO - logging in using static token
+2025-08-01 13:47:24,262 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3c21e5cd47c38065e3f14a9f1bcacc73).
+2025-08-01 13:47:26,314 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:48:46,319 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:48:46,322 - discord.client - INFO - logging in using static token
+2025-08-01 13:48:48,151 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 35925f2a60320f01d8e32103e4881dde).
+2025-08-01 13:48:50,166 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:49:21,756 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:49:21,759 - discord.client - INFO - logging in using static token
+2025-08-01 13:49:23,382 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7f16186f4594decbbe0f57e220833816).
+2025-08-01 13:49:25,530 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 13:59:07,625 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 13:59:07,639 - discord.client - INFO - logging in using static token
+2025-08-01 13:59:09,232 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ff4c4315ed7700bc7c790f6a3d4dfa96).
+2025-08-01 13:59:11,287 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:00:59,951 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:00:59,956 - discord.client - INFO - logging in using static token
+2025-08-01 14:01:01,557 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 59de715e01dc36a614f09d8456186ec3).
+2025-08-01 14:01:03,628 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:06:41,349 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:06:41,352 - discord.client - INFO - logging in using static token
+2025-08-01 14:06:42,877 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fe8d192043e19c165113cd8dfafa2452).
+2025-08-01 14:06:45,056 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:11:26,855 - error_logger - ERROR - Команда: помощь, Ошибка: Command raised an exception: TypeError: 'tuple' object is not callable
+NoneType: None
+2025-08-01 14:11:59,443 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:11:59,448 - discord.client - INFO - logging in using static token
+2025-08-01 14:12:01,036 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 124cdc9d2535aff77a3922eab38b28bf).
+2025-08-01 14:12:03,046 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:23:22,516 - error_logger - ERROR - Команда: жениться, Ошибка: Member "@" not found.
+NoneType: None
+2025-08-01 14:24:13,179 - error_logger - ERROR - Команда: None, Ошибка: Command "передать" is not found
+NoneType: None
+2025-08-01 14:26:44,907 - error_logger - ERROR - Команда: None, Ошибка: Command "помошь" is not found
+NoneType: None
+2025-08-01 14:27:57,203 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:27:57,206 - discord.client - INFO - logging in using static token
+2025-08-01 14:27:58,835 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7beabad185bad8b6c477cfc8e0305cc0).
+2025-08-01 14:28:00,875 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:30:11,741 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:30:11,745 - discord.client - INFO - logging in using static token
+2025-08-01 14:30:13,364 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e202ffbc0792d9ef0d598b1db66c48b8).
+2025-08-01 14:30:15,508 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:33:32,222 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:33:32,226 - discord.client - INFO - logging in using static token
+2025-08-01 14:33:33,886 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a363ea9eca3cb6d641d97b178717831e).
+2025-08-01 14:33:35,909 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:39:24,909 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:39:24,912 - discord.client - INFO - logging in using static token
+2025-08-01 14:39:26,500 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e83aaee762b11443eca4e6181f6b8c62).
+2025-08-01 14:39:28,575 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:41:28,314 - error_logger - ERROR - Команда: None, Ошибка: Command "рестар" is not found
+NoneType: None
+2025-08-01 14:41:34,110 - error_logger - ERROR - Команда: рестарт, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+2025-08-01 14:41:51,013 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:41:51,020 - discord.client - INFO - logging in using static token
+2025-08-01 14:41:52,596 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9dba97603509090582181e6d6376c13b).
+2025-08-01 14:41:54,606 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:43:47,967 - error_logger - ERROR - Команда: секс, Ошибка: member is a required argument that is missing.
+NoneType: None
+2025-08-01 14:51:20,769 - error_logger - ERROR - Команда: казино, Ошибка: Converting to "int" failed for parameter "bet".
+NoneType: None
+2025-08-01 14:52:41,464 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 14:52:41,467 - discord.client - INFO - logging in using static token
+2025-08-01 14:52:43,292 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: daada987d723c8a7357b02fd5ac9c2c0).
+2025-08-01 14:52:45,328 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 14:52:48,150 - error_logger - ERROR - Команда: казино, Ошибка: bet is a required argument that is missing.
+NoneType: None
+2025-08-01 15:02:48,270 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:02:48,278 - discord.client - INFO - logging in using static token
+2025-08-01 15:02:50,021 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 64f65493fc872dda13f6dab2b5b0d699).
+2025-08-01 15:02:52,048 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:05:33,946 - error_logger - ERROR - Команда: крипта, Ошибка: amount is a required argument that is missing.
+NoneType: None
+2025-08-01 15:05:41,145 - error_logger - ERROR - Команда: сетуровень, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+2025-08-01 15:11:49,555 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:11:49,559 - discord.client - INFO - logging in using static token
+2025-08-01 15:11:51,244 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4e78b1ae43dae7623c2a2887a7e36e5e).
+2025-08-01 15:11:53,316 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:12:55,533 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.54 seconds.
+2025-08-01 15:12:55,575 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.51 seconds.
+2025-08-01 15:12:56,001 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.30 seconds.
+2025-08-01 15:12:56,420 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:12:56,708 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.38 seconds.
+2025-08-01 15:12:57,430 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:00,552 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.53 seconds.
+2025-08-01 15:13:00,613 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:00,649 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.43 seconds.
+2025-08-01 15:13:01,462 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:01,470 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.61 seconds.
+2025-08-01 15:13:01,481 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.60 seconds.
+2025-08-01 15:13:02,433 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:02,481 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.60 seconds.
+2025-08-01 15:13:03,440 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:05,524 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.56 seconds.
+2025-08-01 15:13:05,525 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.55 seconds.
+2025-08-01 15:13:05,556 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.52 seconds.
+2025-08-01 15:13:05,734 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.34 seconds.
+2025-08-01 15:13:06,430 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:06,450 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:06,451 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:07,449 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:07,508 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.59 seconds.
+2025-08-01 15:13:08,434 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:10,538 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.54 seconds.
+2025-08-01 15:13:10,552 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.52 seconds.
+2025-08-01 15:13:10,582 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:10,646 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.44 seconds.
+2025-08-01 15:13:10,927 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:11,447 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:11,468 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.61 seconds.
+2025-08-01 15:13:11,486 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.60 seconds.
+2025-08-01 15:13:11,700 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:12,451 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:12,455 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:13,469 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.61 seconds.
+2025-08-01 15:13:13,830 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:15,552 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.54 seconds.
+2025-08-01 15:13:15,561 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.52 seconds.
+2025-08-01 15:13:15,592 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:15,607 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:15,797 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:16,473 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.61 seconds.
+2025-08-01 15:13:16,484 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.60 seconds.
+2025-08-01 15:13:16,497 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.59 seconds.
+2025-08-01 15:13:17,294 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:17,419 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:17,455 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:18,445 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:20,570 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.51 seconds.
+2025-08-01 15:13:20,573 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:20,581 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:20,589 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.49 seconds.
+2025-08-01 15:13:21,425 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:21,462 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:21,513 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:22,428 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:22,499 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.58 seconds.
+2025-08-01 15:13:23,456 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:25,496 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.58 seconds.
+2025-08-01 15:13:25,516 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.57 seconds.
+2025-08-01 15:13:25,523 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.55 seconds.
+2025-08-01 15:13:25,530 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.55 seconds.
+2025-08-01 15:13:26,435 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:26,457 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:26,467 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:26,958 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:27,411 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:13:27,436 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:28,433 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:30,592 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.48 seconds.
+2025-08-01 15:13:30,606 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.47 seconds.
+2025-08-01 15:13:30,606 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.47 seconds.
+2025-08-01 15:13:31,424 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:31,430 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:32,448 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:32,614 - error_logger - ERROR - Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+2025-08-01 15:13:35,575 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.51 seconds.
+2025-08-01 15:13:35,586 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.49 seconds.
+2025-08-01 15:13:35,587 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.49 seconds.
+2025-08-01 15:13:36,434 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:36,442 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:37,459 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:39,501 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.57 seconds.
+2025-08-01 15:13:39,510 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.56 seconds.
+2025-08-01 15:13:39,521 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.56 seconds.
+2025-08-01 15:13:39,530 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.55 seconds.
+2025-08-01 15:13:40,428 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:13:40,435 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:40,468 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:41,414 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:13:41,416 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:13:42,436 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:44,643 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.43 seconds.
+2025-08-01 15:13:44,651 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.42 seconds.
+2025-08-01 15:13:44,665 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.41 seconds.
+2025-08-01 15:13:44,742 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.36 seconds.
+2025-08-01 15:13:45,426 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:45,438 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:45,485 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.59 seconds.
+2025-08-01 15:13:46,430 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.66 seconds.
+2025-08-01 15:13:46,435 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:47,421 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:49,539 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.54 seconds.
+2025-08-01 15:13:49,542 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.53 seconds.
+2025-08-01 15:13:49,546 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.53 seconds.
+2025-08-01 15:13:49,575 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.50 seconds.
+2025-08-01 15:13:50,428 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:50,429 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.65 seconds.
+2025-08-01 15:13:50,444 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:51,444 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:51,456 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:13:52,440 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.64 seconds.
+2025-08-01 15:13:54,537 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.55 seconds.
+2025-08-01 15:13:54,571 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.51 seconds.
+2025-08-01 15:13:54,588 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.49 seconds.
+2025-08-01 15:13:55,449 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.63 seconds.
+2025-08-01 15:13:55,505 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.60 seconds.
+2025-08-01 15:13:56,450 - discord.http - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1400783693416628225/messages responded with 429. Retrying in 0.62 seconds.
+2025-08-01 15:35:20,502 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:35:20,505 - discord.client - INFO - logging in using static token
+2025-08-01 15:35:22,240 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b7767a1eb962b127e3656baa30a7d9ad).
+2025-08-01 15:35:24,321 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:36:18,227 - error_logger - ERROR - Команда: None, Ошибка: Command "назватьпизнес" is not found
+NoneType: None
+2025-08-01 15:36:41,152 - error_logger - ERROR - Команда: улучшитьбизнес, Ошибка: Command raised an exception: NameError: name 'BUSINESS_TYPES' is not defined
+NoneType: None
+2025-08-01 15:36:45,541 - error_logger - ERROR - Команда: улучшитьбизнес, Ошибка: Command raised an exception: NameError: name 'BUSINESS_TYPES' is not defined
+NoneType: None
+2025-08-01 15:39:29,339 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:39:29,348 - discord.client - INFO - logging in using static token
+2025-08-01 15:39:30,995 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b14048577466142c504bf8f1ed69660c).
+2025-08-01 15:39:33,073 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:40:08,636 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:40:08,640 - discord.client - INFO - logging in using static token
+2025-08-01 15:40:10,153 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bbe40346002da45ad9618b8a6a231580).
+2025-08-01 15:40:12,405 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:46:13,698 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:46:13,705 - discord.client - INFO - logging in using static token
+2025-08-01 15:46:15,256 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a4b35e01c02ac1087f3dd2e6bbe24ad3).
+2025-08-01 15:46:17,297 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:46:22,004 - error_logger - ERROR - Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+2025-08-01 15:46:52,628 - error_logger - ERROR - Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+2025-08-01 15:50:02,539 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:50:02,545 - discord.client - INFO - logging in using static token
+2025-08-01 15:50:04,007 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 41f6101d44532d5308f7756f9264625a).
+2025-08-01 15:50:06,084 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 15:50:09,746 - error_logger - ERROR - Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+2025-08-01 15:54:15,840 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 15:54:15,846 - discord.client - INFO - logging in using static token
+2025-08-01 15:54:17,399 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f324401a503de9691cdb5c52e14e71a4).
+2025-08-01 15:54:19,411 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 17:12:55,232 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 17:12:55,235 - discord.client - INFO - logging in using static token
+2025-08-01 17:12:56,958 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f32dcf6c6845585815a7ea2168646d8f).
+2025-08-01 17:12:59,128 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 17:13:59,906 - error_logger - ERROR - Команда: None, Ошибка: Command "инфо\" is not found
+NoneType: None
+2025-08-01 18:45:49,085 - discord.gateway - INFO - Shard ID None has successfully RESUMED session f32dcf6c6845585815a7ea2168646d8f.
+2025-08-01 19:00:04,893 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 19:00:04,897 - discord.client - INFO - logging in using static token
+2025-08-01 19:00:06,735 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 70c6fb676ed1013d30d9cc5babbcfca4).
+2025-08-01 19:00:08,750 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-01 19:03:51,629 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-01 19:03:51,632 - discord.client - INFO - logging in using static token
+2025-08-01 19:03:53,342 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5e82633715f4e49940f41a51bb18b08e).
+2025-08-01 19:03:55,354 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-02 06:19:07,174 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 06:19:07,229 - discord.client - INFO - logging in using static token
+2025-08-02 06:19:08,850 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8856e65d42e47016d4f300ce82dfce1d).
+2025-08-02 06:19:11,050 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-11 08:56:09,668 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-11 08:56:09,825 - discord.client - INFO - logging in using static token
+2025-08-11 08:56:11,768 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b2af8193329ee06b7e49be860277264).
+2025-08-11 08:56:13,782 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-15 14:55:36,507 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-15 14:55:36,513 - discord.client - INFO - logging in using static token
+2025-08-15 14:55:38,046 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1b5f9c3c5cb1967ab02a2105b1a7a2db).
+2025-08-15 14:55:40,232 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-19 16:36:15,744 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-19 16:36:15,751 - discord.client - INFO - logging in using static token
+2025-08-19 16:36:17,424 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c96971cc6acb4f76be3edb510628976).
+2025-08-19 16:36:19,435 - root - INFO - Бот запущен как AtlanticBot (ID: 1400533470429708400)
+2025-08-19 16:38:43,659 - error_logger - ERROR - Команда: секс, Ошибка: member is a required argument that is missing.
+NoneType: None

@@ -1,0 +1,94 @@
+Команда: сетуровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: None, Ошибка: Command "урофень" is not found
+NoneType: None
+Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: сетуровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: уровень, Ошибка: Command raised an exception: NameError: name 'user_levels' is not defined
+NoneType: None
+Команда: None, Ошибка: Command "ehjdtym" is not found
+NoneType: None
+Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+Команда: None, Ошибка: Command "ягей" is not found
+NoneType: None
+Команда: setbalance, Ошибка: Member "-1" not found.
+NoneType: None
+Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+Команда: setbalance, Ошибка: Member "@𝓡𝓲𝓶𝓾𝓻𝓾" not found.
+NoneType: None
+Команда: setbalance, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+Команда: setbalance, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: None, Ошибка: Command "сетбала<@831838273331658793>" is not found
+NoneType: None
+Команда: None, Ошибка: Command "сетбаланс<@831838273331658793>" is not found
+NoneType: None
+Команда: None, Ошибка: Command "сетбаланс@𝓡𝓲𝓶𝓾𝓻𝓾" is not found
+NoneType: None
+Команда: развод, Ошибка: Command raised an exception: TypeError: save_marriages() takes 0 positional arguments but 1 was given
+NoneType: None
+Команда: лс, Ошибка: Member "@894428550130708501" not found.
+NoneType: None
+Команда: бонус, Ошибка: Command raised an exception: NameError: name 'USER_BALANCES_FILE' is not defined
+NoneType: None
+Команда: помощь, Ошибка: Command raised an exception: TypeError: 'tuple' object is not callable
+NoneType: None
+Команда: жениться, Ошибка: Member "@" not found.
+NoneType: None
+Команда: None, Ошибка: Command "передать" is not found
+NoneType: None
+Команда: None, Ошибка: Command "помошь" is not found
+NoneType: None
+Команда: None, Ошибка: Command "рестар" is not found
+NoneType: None
+Команда: рестарт, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+Команда: секс, Ошибка: member is a required argument that is missing.
+NoneType: None
+Команда: казино, Ошибка: Converting to "int" failed for parameter "bet".
+NoneType: None
+Команда: казино, Ошибка: bet is a required argument that is missing.
+NoneType: None
+Команда: крипта, Ошибка: amount is a required argument that is missing.
+NoneType: None
+Команда: сетуровень, Ошибка: You are missing Administrator permission(s) to run this command.
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: крипта, Ошибка: Converting to "int" failed for parameter "amount".
+NoneType: None
+Команда: None, Ошибка: Command "назватьпизнес" is not found
+NoneType: None
+Команда: улучшитьбизнес, Ошибка: Command raised an exception: NameError: name 'BUSINESS_TYPES' is not defined
+NoneType: None
+Команда: улучшитьбизнес, Ошибка: Command raised an exception: NameError: name 'BUSINESS_TYPES' is not defined
+NoneType: None
+Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+Команда: None, Ошибка: Command "бизнес" is not found
+NoneType: None
+Команда: None, Ошибка: Command "инфо\" is not found
+NoneType: None
+Команда: секс, Ошибка: member is a required argument that is missing.
+NoneType: None
